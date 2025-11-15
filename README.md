@@ -1,7 +1,7 @@
 # python-gif-creator
 It's my Final project for the Python course given By CODEDEX 
 
-# My Final Python Project: Animated GIF Maker �
+# My Final Python Project: Animated GIF Maker 
 
 Hello! This is my final project submission for the Python course at CODEDEX.
 
